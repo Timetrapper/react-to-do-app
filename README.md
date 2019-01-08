@@ -1,8 +1,16 @@
+This app will display a text input for the user, where they will be able to write a task and add it to their "To Do" list.
+
+Each list item displays a checkbox. When checked, the list item is removed.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all the project's dependencies.
 
 ### `npm start`
 
